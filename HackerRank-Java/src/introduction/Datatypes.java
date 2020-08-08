@@ -56,6 +56,7 @@ public class Datatypes {
             }
 
         }
+        sc.close();
     }
 
 }

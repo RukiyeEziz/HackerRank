@@ -22,6 +22,7 @@ public class OutputFormatting {
 
 
         System.out.println("================================");
+        sc.close();
 
 }
 }
